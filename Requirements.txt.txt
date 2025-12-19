@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-cohere
-qdrant-client
-google-generativeai
-pydantic
